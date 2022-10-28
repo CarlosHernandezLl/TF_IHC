@@ -493,7 +493,16 @@ ul {
     .titulo{
         width: 100%;
     }
-
+    .btn_main{
+      justify-content: center;
+      align-items: center;
+    }
+    .titulo h1{
+        text-align: center;
+    }       
+    .titulo p{
+        text-align: justify;
+    }
     .imagen{
         display: none;
     }
