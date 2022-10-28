@@ -203,10 +203,10 @@ main{
   justify-content: space-evenly;
 }
 .imagen-about-us{
-  width: 120%;
+  width: 480px;
 }
 .sobre-nosotros .contenido-textos{
-  width: 120%;
+  width: 48%;
 }
 
 .contenido-textos h3{
