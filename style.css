@@ -416,9 +416,7 @@ ul {
     .contenedor_header{
         padding: 20px;
     }
-    .sau {
-        height: 100vh;
-    }
+
       /* Clientes */
 
    .cards{
@@ -493,6 +491,17 @@ ul {
     .titulo{
         width: 100%;
     }
+
+    .btn_main{
+        justify-content: center;
+        align-items: center;
+    }
+    .titulo h1{
+          text-align: center;
+    }       
+      .titulo p{
+          text-align: justify;
+      }
 
     .imagen{
         display: none;
