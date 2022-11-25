@@ -75,7 +75,7 @@ header, main{
     padding: 14px 50px;
     border: none;
     background: #9acd32;
-    color: #000;
+    color: #fff;
     font-weight: 500;
     text-color:#000;
     font-size: 16px;
@@ -90,7 +90,7 @@ header, main{
 
 .btn_iniciar:hover,
 .btn_registro:hover{
-    background: #bfc1bf;
+    background: #ffff00;
     color: #000;
 }
 
